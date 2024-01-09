@@ -2,17 +2,25 @@
     width:80%; 
     height:40em;
 }
-p{
-    display: inline;
+.background-header,
+.background-footer
+{
+    background: #964b00;
+
+}
+.main-table
+{
+    background: #FFA500;
+
 }
 
-.table th,
-.table td {
-  
-  vertical-align: middle;
+
+.background {
+  background: #987654 ;
 }
 
-.table th {
-  font-weight: bold;
-  align-items: center;
-}
+
+/* FFA500 - апельсин
+  964b00 - не апельсин
+  #808000 - оливка
+  987654 - светлый не апельсин*/
